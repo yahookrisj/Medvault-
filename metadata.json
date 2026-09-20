@@ -1,0 +1,6 @@
+{
+  "name": "MedVault",
+  "description": "Personal medication record, visual reminder & identification app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

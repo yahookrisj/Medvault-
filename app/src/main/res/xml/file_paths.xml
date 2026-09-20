@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="internal_files" path="." />
+    <files-path name="reports" path="reports/" />
+    <files-path name="backups" path="backups/" />
+    <files-path name="medicine_images" path="medicine_images/" />
+</paths>
